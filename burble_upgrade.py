@@ -27,3 +27,5 @@ while k<n-1:
     print(f'the last swap index={last}')
     k=last
 
+#이 문장은 그냥 실험용
+
